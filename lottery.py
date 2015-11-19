@@ -3,6 +3,7 @@
 #three sets of 7 numbers between 1 and 49, each number in two-digit format. 
 #This random number generator does just that.
 #If you win the lottery because of this, it's purely by chance.
+
 #... but only if you believe in coincidence. 
 
 import random
